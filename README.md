@@ -34,9 +34,9 @@
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc" >
 		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="50" width="50" ></a>
-	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc" >
+	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nadun25" >
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/nadun_dilsh">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50"></a>
       </div>
 
