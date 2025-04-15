@@ -20,11 +20,10 @@
 
 - 📫 How to reach me **nadundilshan925@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
 </p>
-<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
