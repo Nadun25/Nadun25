@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Spring boot, MERN**
 
+- - 🤝 I’m available for freelancing.
+
 - 💬 Ask me about **React, Figma, HTML, Tailwind CSS**
 
 - 📫 How to reach me **nadundilshan925@gmail.com**
