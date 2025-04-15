@@ -7,13 +7,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka </h3>
 
 - 🔭 I’m currently working on [Home Stock Management System](https://github.com/Nadun25/HomeStock-project)
 
-- 🔭 I’m currently working on Online Learning Platform 
+- 🔭 I’m currently working on Online Learning Platform (SPRINGBOOT + REACT + SQL)
 
-- 🌱 I’m currently learning **Spring boot, MERN**
+- 🌱 I’m currently learning **Spring Boot, MERN**
 
 - 🤝 I’m available for freelancing.
 
