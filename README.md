@@ -30,11 +30,11 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nadun-dilsh/">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc" >
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nadun25" >
 		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" height="50" width="50" ></a>
-	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nadun25" >
+	 <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/profile.php?id=100086289606795" >
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/nadun_dilsh">
 			<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="50"></a>
