@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring boot, MERN**
 
-- - 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing.
 
 - 💬 Ask me about **React, Figma, HTML, Tailwind CSS**
 
