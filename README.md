@@ -8,7 +8,6 @@
 </a>
 
 </br>
-</br>
 
 - 🔭 I’m currently working on [Home Stock Management System](https://github.com/Nadun25/HomeStock-project)
 
